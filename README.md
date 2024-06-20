@@ -123,10 +123,6 @@ Deploy your application to Vercel:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Deployed Application
 
 Check out the live application [here](https://ai-mock-interviewer-mntzw67eq-haseeb-ahsans-projects.vercel.app/dashboard).
