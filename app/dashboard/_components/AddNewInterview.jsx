@@ -44,7 +44,8 @@ function AddNewInterview() {
       jobExperience +
       ', Depends on this information please give me ' +
       process.env.NEXT_PUBLIC_INTERVIEW_QUESTION_COUNT +
-      ' Interview questions with answered in json format, Give Questions and Answered as field in JSON';
+      ' Interview questions with answered in json format, Give Questions and Answered as field in JSON' +
+      'like {Question: , Answer: }';
 
     const result = await chatSession.sendMessage(InputPrompt);
     const MockJsonResp = result.response
