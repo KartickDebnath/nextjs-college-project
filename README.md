@@ -4,13 +4,13 @@ Welcome to the Full Stack AI Mock Interviewer App! This project leverages the po
 
 ## Screenshots
 **Main Dashboard**
-<!-- ![Screenshot from 2024-06-20 17-19-24](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/22c93d63-ec71-43d1-b504-bb6182f10819)
+![Screenshot from 2024-06-20 17-19-24](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/22c93d63-ec71-43d1-b504-bb6182f10819)
 **Add Interview Screen**
 ![Screenshot from 2024-06-20 17-19-28](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/724b94e3-e5ca-45b6-a703-b84e4e301402)
 **Record Answer**
 ![Screenshot from 2024-06-20 17-19-39](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/2998b33d-dbf8-472d-bf41-39732a93b35a)
 **Feedback Page**
-![Screenshot from 2024-06-20 17-20-26](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/7079bf35-aa87-4308-a031-cceab5686b56) -->
+![Screenshot from 2024-06-20 17-20-26](https://github.com/haseeb-ahsan/AI-mock-interviewer/assets/84566594/7079bf35-aa87-4308-a031-cceab5686b56)
 
 
 ## Table of Contents
