@@ -102,12 +102,13 @@ function AddNewInterview() {
                     Add details about your job position/role, Job description
                     and years of experience.
                   </h2>
-                  <div className='mt-7 my-2'>
+                  <div className='mt-15 my-2'>
                     <label>Job Role/Job Position</label>
                     <Input
                       placeholder='Ex. Full Stack Developer'
                       required
                       onChange={(event) => setJobPosition(event.target.value)}
+                      className='mt-3'
                     />
                   </div>
                   <div className='my-3'>
@@ -116,6 +117,7 @@ function AddNewInterview() {
                       placeholder='Ex. Full React, Angular, NodeJs etc.'
                       required
                       onChange={(event) => setJobDesc(event.target.value)}
+                      className='mt-3'
                     />
                   </div>
                   <div className='my-3'>
@@ -126,6 +128,7 @@ function AddNewInterview() {
                       max='50'
                       required
                       onChange={(event) => setJobExperience(event.target.value)}
+                      className='mt-3'
                     />
                   </div>
                 </div>

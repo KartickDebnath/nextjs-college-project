@@ -129,11 +129,13 @@ function RecordAnswerSection({
       >
         {isRecording ? (
           <h2 className='text-red-600 animate-pulse flex gap-2 items-center'>
-            <StopCircle /> Stop Recording
+            {/* <StopCircle /> Stop Recording */}
+            <StopCircle /> Click here to stop your answer
           </h2>
         ) : (
           <h2 className='text-primary flex gap-2 items-center'>
-            <Mic /> Start Recording
+            {/* <Mic /> Start Recording */}
+            <Mic /> Click here to get your answer
           </h2>
         )}
       </Button>

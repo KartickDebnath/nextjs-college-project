@@ -11,9 +11,9 @@
     "db:studio": "npx drizzle-kit studio"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.1.5",
+    "@clerk/nextjs": "^5.7.5",
     "@google/generative-ai": "^0.12.0",
-    "@neondatabase/serverless": "^0.9.3",
+    "@neondatabase/serverless": "^0.9.5",
     "@radix-ui/react-collapsible": "^1.1.0",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-slot": "^1.0.2",
@@ -29,7 +29,9 @@
     "react-hook-speech-to-text": "^0.8.0",
     "react-usestateref": "^1.0.9",
     "react-webcam": "^7.2.0",
-    "sonner": "^1.5.0",
+    "sharp": "^0.33.5",
+    "sonner": "^1.7.2",
+    "styled-components": "^6.1.14",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^10.0.0"

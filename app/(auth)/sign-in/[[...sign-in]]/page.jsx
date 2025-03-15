@@ -1,4 +1,6 @@
 import { SignIn } from '@clerk/nextjs';
+// import backimage from '../../../public/backimage.webp'
+import backimg from '../../../../public/backimage.jpg'
 
 export default function Page() {
   return (
@@ -7,7 +9,8 @@ export default function Page() {
         <section className='relative flex h-32 items-end bg-gray-900 lg:col-span-5 lg:h-full xl:col-span-6'>
           <img
             alt=''
-            src='https://images.unsplash.com/photo-1617195737496-bc30194e3a19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
+            src='https://media.licdn.com/dms/image/v2/D4D12AQFo9Yd_oplIpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686569230841?e=2147483647&v=beta&t=ApgU_-6gEdfjxK2vUPFjWY22xMYLMUh3cplTOvMKL-I'
+            // src='https://www.ttnews.com/sites/default/files/styles/article_full_width_image/public/2023-09/iTECH-Dysart-1200.jpg'
             className='absolute inset-0 h-full w-full object-cover opacity-80'
           />
 
@@ -28,12 +31,11 @@ export default function Page() {
             </a>
 
             <h2 className='mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl'>
-              Welcome to AI Mock Interviewer 🦑
+              Welcome to AI Mock Interview Test 🦑
             </h2>
 
             <p className='mt-4 leading-relaxed text-white/90'>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi
-              nam dolorum aliquam, quibusdam aperiam voluptatum.
+            An AI Mock Interview Test simulates real interview scenarios using artificial intelligence, helping candidates practice responses to common questions. It provides instant feedback, enabling users to improve their answers and performance.
             </p>
           </div>
         </section>
